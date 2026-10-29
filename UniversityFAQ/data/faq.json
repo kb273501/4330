@@ -1,0 +1,50 @@
+[
+  {
+    "id": "FAQ_001",
+    "q_zh": "如何申请作业延期？",
+    "q_en": "How do I apply for an assignment extension?",
+    "a_zh": "【演示政策】请在截止前通过课程平台提交延期申请和证明，由课程负责人决定是否批准。",
+    "a_en": "[Demo policy] Submit an extension request and supporting documents through the course platform before the deadline. Approval is decided by the course coordinator.",
+    "source": "Demo handbook / 演示手册 §1"
+  },
+  {
+    "id": "FAQ_002",
+    "q_zh": "忘记学生账户密码怎么办？",
+    "q_en": "How do I reset my student account password?",
+    "a_zh": "【演示政策】请使用学生门户的密码重设功能，验证失败时联系 IT 支援。",
+    "a_en": "[Demo policy] Use the password reset feature in the student portal. Contact IT support if verification fails.",
+    "source": "Demo handbook / 演示手册 §2"
+  },
+  {
+    "id": "FAQ_003",
+    "q_zh": "在哪里查看考试时间表？",
+    "q_en": "Where can I find the examination timetable?",
+    "a_zh": "【演示政策】请在学生门户考试栏目查看，并核对课程编号和最新公告。",
+    "a_en": "[Demo policy] Check the examination section of the student portal and verify course codes and current announcements.",
+    "source": "Demo handbook / 演示手册 §3"
+  },
+  {
+    "id": "FAQ_004",
+    "q_zh": "如何缴交学费？",
+    "q_en": "How can I pay tuition fees?",
+    "a_zh": "【演示政策】请在学生门户查看缴费通知，按列出的方式和期限付款。",
+    "a_en": "[Demo policy] Check your payment notice in the student portal and follow its payment methods and deadline.",
+    "source": "Demo handbook / 演示手册 §4"
+  },
+  {
+    "id": "FAQ_005",
+    "q_zh": "如何添加或退选课程？",
+    "q_en": "How do I add or drop a course?",
+    "a_zh": "【演示政策】请在选课调整期内通过学生门户操作，调整期后请咨询课程办公室。",
+    "a_en": "[Demo policy] Add or drop courses through the student portal during the adjustment period. Contact the course office afterwards.",
+    "source": "Demo handbook / 演示手册 §5"
+  },
+  {
+    "id": "FAQ_006",
+    "q_zh": "如何借阅图书馆书籍？",
+    "q_en": "How can I borrow library books?",
+    "a_zh": "【演示政策】请凭有效学生证借书，归还日期以借阅记录为准。",
+    "a_en": "[Demo policy] Use a valid student card to borrow books. Check your loan record for due dates.",
+    "source": "Demo handbook / 演示手册 §6"
+  }
+]
