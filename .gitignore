@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+**/.streamlit/secrets.toml
+
+# Operating system and Office temporary files
+.DS_Store
+Thumbs.db
+~$*
