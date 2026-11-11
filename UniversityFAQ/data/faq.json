@@ -1,0 +1,434 @@
+[
+  {
+    "id": "FAQ_001",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "How do I apply for an assignment extension?",
+    "q_zh": "如何申请作业延期？",
+    "a_en": "Extensions are not decided by the course team alone. Complete the Course Issues Application Form (FCS003) and submit it with supporting evidence, normally a medical certificate issued by a registered medical practitioner or registered Chinese medicine practitioner. Inquiries: Registry Unit (Examination and Timetabling), 3120 9988.",
+    "a_zh": "延期不由課程導師單獨決定。請填妥〈課程事項申請表〉（FCS003），連同證明文件（一般為註冊醫生或註冊中醫簽發的醫生證明書）一併提交。查詢：教務處（考試及課堂編排），電話 3120 9988。",
+    "source": "HKMU Course Issues Application Form (FCS003) + demo policy §1"
+  },
+  {
+    "id": "FAQ_002",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "What happens if I submit coursework late?",
+    "q_zh": "作业迟交会有什么后果？",
+    "a_en": "A late submission is marked but penalised: the programme handbook deducts 10 per cent of the assignment mark once the deadline passes, then a further 5 per cent for each subsequent working day, and work received after the cut-off may score zero. If illness caused the delay, lodge the FCS003 form with evidence rather than relying on the penalty.",
+    "a_zh": "逾期提交仍會評分，但按課程手冊扣分：截止後先扣該作業 10%，其後每個工作日再扣 5%，超過最後收件期限可作零分。若延誤因疾病造成，應以 FCS003 表格連同證明提出申請，而非只承受罰則。",
+    "source": "HKMU programme handbook late-submission rule + demo policy §2"
+  },
+  {
+    "id": "FAQ_003",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "Can our group ask for more time on the group project?",
+    "q_zh": "小组作业可以申请延期吗？",
+    "a_en": "A group project extension is requested once in the group's name, through the course leader and a single FCS003 form; members may not apply separately for the same project. State the reason, the work already completed and the revised date agreed with the course leader. Inquiries: course leader, then Registry Unit.",
+    "a_zh": "小組項目延期須以組別名義、經課程負責人並以一份 FCS003 表格提出，同一項目不接受組員各自申請。申請須列明原因、已完成部分及與課程負責人議定的新日期。查詢：課程負責人，其後為教務處。",
+    "source": "Demo policy §3 (not verified)"
+  },
+  {
+    "id": "FAQ_004",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "How do I report circumstances that affected my coursework?",
+    "q_zh": "课程作业受突发事件影响该怎么申报？",
+    "a_en": "Declare the circumstances on the FCS003 form with supporting evidence and submit it to the Registry Unit within five calendar days of the affected assessment for full-time programmes, or seven calendar days for part-time professional programmes. The School then decides whether the mark stands, is set aside or a further attempt is allowed.",
+    "a_zh": "請以 FCS003 表格連同證明申報影響課業的情況，並於受影響評核後五個日曆日內交往教務處（兼讀制專業課程為七個日曆日）。之後由學院決定維持原分、作廢或給予另一次機會。",
+    "source": "HKMU Student Guidelines on Examination §8 (5/7-day rule) + demo policy §4"
+  },
+  {
+    "id": "FAQ_005",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "How do I appeal a final grade?",
+    "q_zh": "如何对最终成绩提出申诉？",
+    "a_en": "A grade is not appealed directly. First ask for the mark to be reviewed: a marked assignment may be returned for review within 28 days of the despatch date shown on the assignment form. Where a procedural or technical error is alleged, apply for checking of the result; a failed course graded R may be re-assessed through FCS003 with the prescribed fee within seven calendar days of the results announcement, or 14 for part-time professional programmes. Inquiries: Registry Unit, 3120 9988.",
+    "a_zh": "成績不能直接上訴。應先要求覆核分數：已批改的作業可於作業表所列寄出日期起 28 日內退回覆核。若涉及程序或技術錯誤，可申請核查成績；不合格而獲 R 級的科目，可於成績公佈後七個日曆日內（兼讀制專業課程為 14 日）以 FCS003 表格連同指定費用申請重新評核。查詢：教務處，電話 3120 9988。",
+    "source": "HKMU academic regulations on review and re-assessment"
+  },
+  {
+    "id": "FAQ_006",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "Can I ask for my essay to be re-marked?",
+    "q_zh": "可以要求重新评阅论文吗？",
+    "a_en": "Yes. Return the marked essay to the tutor for review within 28 days of the despatch date on the assignment form, with a short written note naming the part of the marking you question. The review establishes whether the mark stands; it carries no entitlement to a higher mark.",
+    "a_zh": "可以。請於作業表所列寄出日期起 28 日內，把已批改的文章退回導師覆核，並附簡短書面說明指出你質疑的評分部分。覆核只確定原分是否成立，並不保證提高分數。",
+    "source": "HKMU academic regulations on review of assignment marks"
+  },
+  {
+    "id": "FAQ_007",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "My mark is missing from the gradebook. Who do I contact?",
+    "q_zh": "成绩表上没有我的分数，应该找谁？",
+    "a_en": "Contact the course leader first, quoting the course code, the assignment title and your submission receipt. If the mark is still absent once the class result is released, raise it with the Registry Unit, which keeps the official record of assessment.",
+    "a_zh": "請先聯絡課程負責人，並提供科目編號、作業名稱及提交紀錄。若課堂成績公佈後仍未見分數，向教務處提出；評核的官方紀錄以教務處為準。",
+    "source": "Demo policy §7 (not verified)"
+  },
+  {
+    "id": "FAQ_008",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "How are marks adjusted when a cohort performs unusually?",
+    "q_zh": "全班成绩偏低时会如何调整？",
+    "a_en": "Marks are moderated at cohort level, not adjusted for individuals: the School's programme management committee reviews the distribution before results are approved, and the approved result is what appears on your transcript. A student cannot request an adjustment on the ground of cohort performance.",
+    "a_zh": "分數以整體調整方式處理，不會為個別學生加分：學院課程管理委員會在成績通過前審視整體分佈，成績單所載為通過後的結果。學生不得以同屆表現為理由要求調分。",
+    "source": "Demo policy §8 (not verified)"
+  },
+  {
+    "id": "FAQ_009",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "Where can I find the examination timetable?",
+    "q_zh": "在哪里查看考试时间表？",
+    "a_en": "The examination timetable is published on MyHKMU before each examination period, with the Registry issuing separate announcements. Check entries by course code rather than course title, and confirm the room again on the day.",
+    "a_zh": "考試時間表於每個考試期前在 MyHKMU 公佈，教務處另行公告。核對時以科目編號為準，不要只看科目名稱，並於考試當日再確認試場。",
+    "source": "HKMU Registry examination guidance"
+  },
+  {
+    "id": "FAQ_010",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "Which room is my exam in?",
+    "q_zh": "我的考试在哪个课室举行？",
+    "a_en": "The room appears against your course code on the MyHKMU examination timetable. Arrive 20 minutes early and read the notice at the venue, since rooms can be reassigned; if no room is shown, contact the Registry Unit before the examination.",
+    "a_zh": "試場資料見於 MyHKMU 考試時間表中對應的科目編號。請提早 20 分鐘到達並在現場查看通告，試場可能改派；如未列試場，須於考試前聯絡教務處。",
+    "source": "HKMU Student Guidelines on Examination (arrival rule)"
+  },
+  {
+    "id": "FAQ_011",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "Two of my exams are scheduled at the same time. What should I do?",
+    "q_zh": "两科考试时间重叠怎么办？",
+    "a_en": "Report a clash to the Registry Unit (Examination and Timetabling) as soon as it appears, on 3120 9988 or at the Registry counter. The Registry arranges an alternative sitting; candidates must not decide on their own which paper to attend.",
+    "a_zh": "發現考試時間衝突，應立即向教務處（考試及課堂編排）報告，電話 3120 9988 或親臨教務處櫃位。教務處會安排另一應考時段，考生不得自行決定放棄哪一科。",
+    "source": "HKMU Registry examination guidance + demo policy §11"
+  },
+  {
+    "id": "FAQ_012",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "What time does the exam start and how long is it?",
+    "q_zh": "考试几点开始、考多久？",
+    "a_en": "The start time and duration are printed against each paper on the MyHKMU timetable and repeated on the answer book cover. Candidates should arrive 20 minutes before the start; those arriving more than 30 minutes late are not admitted, and no extra time is given for lateness.",
+    "a_zh": "各卷的開考時間與考試時長列於 MyHKMU 時間表，並在答題簿封面再次列明。考生應於開考前 20 分鐘到達；遲到超過 30 分鐘不得進入試場，遲到亦不獲補時。",
+    "source": "HKMU Student Guidelines on Examination §1"
+  },
+  {
+    "id": "FAQ_013",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "I was ill on the day of my exam. What happens now?",
+    "q_zh": "考试当天生病缺席该怎么办？",
+    "a_en": "Absence without the School's permission forfeits that attempt. Where absence follows serious illness with sick leave granted, submit the original medical certificate — issued by a registered medical practitioner or registered Chinese medicine practitioner and covering the examination date — together with the completed FCS003 form to the Registry Unit within five calendar days, or seven for part-time professional programmes. Late or unsupported applications are not processed; if continuous assessment was passed and attendance requirements met, one deferred examination may be granted.",
+    "a_zh": "未經學院批准而缺席，即喪失該次考試機會。如因嚴重疾病並獲病假，須把註冊醫生或註冊中醫簽發、涵蓋考試日期的醫生證明書正本，連同填妥的 FCS003 表格於五個日曆日內交往教務處（兼讀制專業課程為七個日曆日）。逾期或證明不足者不獲處理；如平時評核已及格並符合出席要求，可獲一次補考。",
+    "source": "HKMU Student Guidelines on Examination §8"
+  },
+  {
+    "id": "FAQ_014",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "How do I apply for special consideration after an exam?",
+    "q_zh": "考试后如何申请特殊考虑？",
+    "a_en": "There is no separate special-consideration scheme: the route is the FCS003 form with evidence to the Registry Unit inside the five- or seven-day window. The School then decides whether the attempt stands, is set aside, or a deferred examination is granted.",
+    "a_zh": "大學沒有另設特別考慮機制，正式渠道是在五或七日的時限內，把 FCS003 表格連同證明交往教務處。其後由學院決定維持該次成績、作廢，或批准補考。",
+    "source": "HKMU Student Guidelines on Examination §8"
+  },
+  {
+    "id": "FAQ_015",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "Can I sit a deferred exam next semester?",
+    "q_zh": "可以下学期补考吗？",
+    "a_en": "A deferred examination is granted once, at the time and place set by the School, and cannot be deferred again. Absence from the deferred paper results in a Fail grade automatically, and deferment does not extend to resit or re-assessment papers.",
+    "a_zh": "補考只批一次，時間與地點由學院安排，不得再次延期。缺席補考者自動評為不及格；延期安排不適用於重考或重新評核。",
+    "source": "HKMU Student Guidelines on Examination §8"
+  },
+  {
+    "id": "FAQ_016",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "What happens if I arrive late to an exam?",
+    "q_zh": "考试迟到会怎样？",
+    "a_en": "Candidates should arrive 20 minutes before the start. Late candidates are given no extra time, and anyone arriving more than 30 minutes after the start is not admitted to the examination room.",
+    "a_zh": "考生應於開考前 20 分鐘到達。遲到者不獲補時；開考後超過 30 分鐘到達者不得進入試場。",
+    "source": "HKMU Student Guidelines on Examination §1"
+  },
+  {
+    "id": "FAQ_017",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "How do I add a course after the add-drop period?",
+    "q_zh": "选课期过后还能加课吗？",
+    "a_en": "Adding a course outside the add/drop window requires late registration: the 2026/27 academic calendar sets 1-11 September as the add/drop period and 11 September as the last day for late registration, with a late registration fee. Submit the request to the Registry Unit; approval depends on places and prerequisites.",
+    "a_zh": "在加退選期後加科屬逾期註冊：2026/27 學年曆以 9 月 1 至 11 日為加退選期，9 月 11 日為逾期註冊最後一天，並須繳付逾期註冊費。申請交往教務處，批准與否取決於學額與先修要求。",
+    "source": "HKMU 2026/27 Academic Calendar (public)"
+  },
+  {
+    "id": "FAQ_018",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "How do I drop a course?",
+    "q_zh": "如何退选课程？",
+    "a_en": "Withdraw through the course registration function in MyHKMU during the add/drop period, which for 2026/27 runs from 1 to 11 September. After that date a withdrawal requires the course-change form, an administrative fee and the School's approval, and it does not normally attract a refund.",
+    "a_zh": "請在加退選期內於 MyHKMU 的科目註冊功能辦理退選，2026/27 學年為 9 月 1 至 11 日。逾期退選須用轉科表格、繳行政費並經學院批准，一般不獲退款。",
+    "source": "HKMU 2026/27 Academic Calendar + Application for Change of Course Registered"
+  },
+  {
+    "id": "FAQ_019",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "Can I switch to a different tutorial group?",
+    "q_zh": "可以换到另一个导修组吗？",
+    "a_en": "Tutorial group changes are handled by the course leader, not the Registry. Write to the course leader within the first two weeks, naming the group you attend and the one you need; a change is permitted only where a place exists and the timetable allows.",
+    "a_zh": "轉換導修組由課程負責人處理，而非教務處。請於首兩星期內書面向課程負責人提出，列明現時組別與希望轉往的組別；只有該組仍有學額且時間表許可才會批准。",
+    "source": "Demo policy §19 (not verified)"
+  },
+  {
+    "id": "FAQ_020",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "The course I want is full. Is there a waiting list?",
+    "q_zh": "想选的课满了，有候补名单吗？",
+    "a_en": "There is no central waiting list. Ask the course leader whether a place may be released, and register for an alternative course before the add/drop period closes; the Registry will not hold a place without a registration.",
+    "a_zh": "大學沒有中央輪候名單。請向課程負責人查詢是否有學額釋出，並在加退選期結束前先註冊其他科目；教務處不會在未註冊的情況下預留學額。",
+    "source": "Demo policy §20 (not verified)"
+  },
+  {
+    "id": "FAQ_021",
+    "intent": "FEES_PAYMENT",
+    "q_en": "How can I pay tuition fees?",
+    "q_zh": "如何缴交学费？",
+    "a_en": "Tuition is settled through the ePayment Platform reached from MyHKMU, by the instalment date shown on the debit note; a bank deposit slip is no longer the standard route. Keep the e-payment receipt, which is your proof of payment. Inquiries: Finance Office.",
+    "a_zh": "學費經 MyHKMU 內的電子繳費平台繳交，並依繳費通知所列的分期到期日付款；銀行入帳單已非標準渠道。請保留電子繳費收據，作為付款證明。查詢：財務處。",
+    "source": "HKMU ePayment Platform guidance"
+  },
+  {
+    "id": "FAQ_022",
+    "intent": "FEES_PAYMENT",
+    "q_en": "Can I pay my tuition in instalments?",
+    "q_zh": "学费可以分期缴付吗？",
+    "a_en": "Instalments apply where the programme's debit note is issued in instalments; each must be paid by its own due date, and a surcharge follows a missed date. If a date cannot be met, apply in writing for deferred payment with evidence before the deadline, not afterwards.",
+    "a_zh": "分期繳費適用於繳費通知已分期的課程；每期須依自身到期日繳付，逾期會加收附加費。如未能如期繳付，應在到期前以書面連同證明申請延期繳費，而非到期後補辦。",
+    "source": "HKMU tuition fee payment guidance"
+  },
+  {
+    "id": "FAQ_023",
+    "intent": "FEES_PAYMENT",
+    "q_en": "Where do I get proof that I have paid?",
+    "q_zh": "缴费后在哪里取得证明？",
+    "a_en": "The e-payment receipt in MyHKMU and the statement of account issued by the Finance Office are the accepted proofs; a screenshot of a bank transfer is not. Where a third party requires formal evidence, ask the Finance Office for a stamped statement.",
+    "a_zh": "可接受的付款證明為 MyHKMU 內的電子繳費收據及財務處發出的賬目結單；銀行轉帳截圖不獲接納。如第三方要求正式證明，可向財務處申請蓋章結單。",
+    "source": "HKMU Finance Office guidance + demo policy §23"
+  },
+  {
+    "id": "FAQ_024",
+    "intent": "FEES_PAYMENT",
+    "q_en": "What happens if my payment is late?",
+    "q_zh": "逾期未缴会怎样？",
+    "a_en": "A late instalment attracts a surcharge, and where two instalments are outstanding the whole balance falls due at once together with the surcharge. Persistent non-payment can lead to suspension of registration, so contact the Finance Office before the due date rather than after it.",
+    "a_zh": "逾期一期會加收附加費；若有兩期未繳，全部餘額連同附加費即時到期。長期欠款可能導致註冊被暫停，故應在到期前而非到期後聯絡財務處。",
+    "source": "HKMU Student Financial Assistance Scheme notes (surcharge) + demo policy §24"
+  },
+  {
+    "id": "FAQ_025",
+    "intent": "FEES_REFUND",
+    "q_en": "Can I get a refund after withdrawing from a course?",
+    "q_zh": "退课后可以退款吗？",
+    "a_en": "Fees are not refundable or transferable for personal reasons such as withdrawal or a change of course; refunds arise only in defined cases such as programme cancellation or an unsuccessful application. Any refund is calculated under the programme's refund policy and paid through the original payment channel.",
+    "a_zh": "因個人理由（例如退選、轉科）而繳付的費用不可退還，亦不可轉讓；只有課程取消、申請不成功等既定情況才可退款。退款按所屬課程的退款政策計算，並經原繳費渠道退回。",
+    "source": "HKMU refund policy (public) + demo policy §25"
+  },
+  {
+    "id": "FAQ_026",
+    "intent": "FEES_REFUND",
+    "q_en": "I paid twice. How do I get the extra payment back?",
+    "q_zh": "我重复缴费了，怎样取回多付的款项？",
+    "a_en": "Report the duplicate payment to the Finance Office with both e-payment receipts and your student number; the excess is refunded to the original account after reconciliation. Do not make a third payment while the case is open.",
+    "a_zh": "請把兩張電子繳費收據連同學生編號交財務處處理，重複繳付的金額在對帳後退回原繳費戶口。處理期間請勿再繳第三次。",
+    "source": "Demo policy §26 (not verified)"
+  },
+  {
+    "id": "FAQ_027",
+    "intent": "FEES_REFUND",
+    "q_en": "How long does a refund take to reach my account?",
+    "q_zh": "退款多久会到帐？",
+    "a_en": "Refunds are processed after the Finance Office closes the term's account and reach the original account within the period stated in the refund policy. The student number and bank details must match the record, or the payment is returned unpaid.",
+    "a_zh": "退款於財務處完成該學期結帳後處理，並在退款政策所列期間內退回原戶口。學生編號與銀行資料須與紀錄一致，否則款項會被退回。",
+    "source": "Demo policy §27 (not verified)"
+  },
+  {
+    "id": "FAQ_028",
+    "intent": "FEES_REFUND",
+    "q_en": "Can the fee for a cancelled field trip be refunded?",
+    "q_zh": "取消的考察团费用可以退吗？",
+    "a_en": "A cancelled field trip fee is refunded where the cancellation is made by the University; where a student withdraws personally, the trip fee follows the same no-refund rule as tuition. The terms issued with the enrolment notice govern each trip.",
+    "a_zh": "由大學取消的考察活動會退回費用；若屬學生個人退出，考察費與學費同樣不設退款。個別活動的條款以隨報名通知發出的細則為準。",
+    "source": "Demo policy §28 (not verified)"
+  },
+  {
+    "id": "FAQ_029",
+    "intent": "SCHOLARSHIP",
+    "q_en": "How do I check my scholarship application status?",
+    "q_zh": "如何查询奖学金申请进度？",
+    "a_en": "Scholarship and bursary outcomes are sent by email to your HKMU account and recorded in MyHKMU. The Student Affairs Office (SAO) holds the case record and can confirm the stage your application has reached.",
+    "a_zh": "獎學金與助學金的結果以電郵發送到你的都會大學電郵，並記錄於 MyHKMU。學生事務處（SAO）持有個案紀錄，可確認申請現處的階段。",
+    "source": "HKMU Student Affairs Office guidance + demo policy §29"
+  },
+  {
+    "id": "FAQ_030",
+    "intent": "SCHOLARSHIP",
+    "q_en": "Am I eligible for a bursary?",
+    "q_zh": "我符合助学金资格吗？",
+    "a_en": "Bursaries are means-tested. Full-time students normally apply for the government schemes administered by the Student Finance Office (TSFS and FASP), while SAO handles University bursaries and emergency funds. Eligibility depends on income evidence and on being a registered student of the programme.",
+    "a_zh": "助學金須通過入息審查。全日制學生一般經學生資助處申請政府計劃（TSFS 及 FASP），大學層面的助學金與緊急基金由學生事務處處理。資格取決於入息證明及是否為該課程的註冊學生。",
+    "source": "HKMU SAO scholarship and financial assistance page + demo policy §30"
+  },
+  {
+    "id": "FAQ_031",
+    "intent": "SCHOLARSHIP",
+    "q_en": "What must I do to keep my scholarship?",
+    "q_zh": "奖学金要怎样才可以延续？",
+    "a_en": "Continuation depends on the terms of the award: normally a minimum GPA or credit load each term, full-time registration, and no disciplinary finding. The award letter states the exact conditions, which SAO reviews before the next disbursement.",
+    "a_zh": "能否續領取決於獎項條款：一般要求每學期達到最低 GPA 或學分負荷、維持全日制註冊，且沒有紀律處分。具體條件載於獎項通知書，學生事務處會在下次發放前審核。",
+    "source": "Demo policy §31 (not verified)"
+  },
+  {
+    "id": "FAQ_032",
+    "intent": "SCHOLARSHIP",
+    "q_en": "When is the scholarship paid out?",
+    "q_zh": "奖学金何时发放？",
+    "a_en": "Awards are disbursed once registration is confirmed and the term's fee position is settled, usually in the first half of the term. The award letter gives the date, and the payment appears in the statement of account.",
+    "a_zh": "獎項於註冊確認及該學期繳費狀況結清後發放，通常在學期前半段。發放日期載於獎項通知書，款項並會顯示於賬目結單。",
+    "source": "Demo policy §32 (not verified)"
+  },
+  {
+    "id": "FAQ_033",
+    "intent": "IT_ACCOUNT",
+    "q_en": "How do I reset my student account password?",
+    "q_zh": "忘记学生账户密码怎么办？",
+    "a_en": "Use Single Password Management (Students), reached from the Current Students section of the University website, to set a new single password; it governs webmail and MyHKMU alike. A new student must create the password before any online service can be used.",
+    "a_zh": "請經大學網站「在學學生」一欄進入「統一密碼管理（學生）」重設統一密碼；該密碼同時用於電郵與 MyHKMU。新生須先建立密碼，方可使用任何網上服務。",
+    "source": "HKMU Single Password Management guidance"
+  },
+  {
+    "id": "FAQ_034",
+    "intent": "IT_ACCOUNT",
+    "q_en": "My account is locked after several wrong passwords.",
+    "q_zh": "多次输入错误后账户被锁定了。",
+    "a_en": "Repeated wrong entries lock the account temporarily. Wait for the lock to clear, then reset the password through Single Password Management. If the reset fails, take your student card to the IT Office counter rather than opening a second account.",
+    "a_zh": "多次輸入錯誤會暫時鎖定帳戶。待鎖定解除後，經「統一密碼管理」重設密碼。若重設失敗，請帶同學生證到資訊科技處櫃位處理，不要另開帳戶。",
+    "source": "HKMU IT support guidance + demo policy §34"
+  },
+  {
+    "id": "FAQ_035",
+    "intent": "IT_ACCOUNT",
+    "q_en": "How do I turn on two-factor authentication?",
+    "q_zh": "如何启用双重认证？",
+    "a_en": "Two-factor authentication is enabled from the security settings of your University account, following the steps published by the IT Office. Once enabled it applies to MyHKMU and webmail, so keep the authenticator device with you when travelling.",
+    "a_zh": "雙重認證在大學帳戶的安全設定中，按資訊科技處公佈的步驟啟用。啟用後同時適用於MyHKMU 與電郵，外遊時請隨身帶備認證裝置。",
+    "source": "Demo policy §35 (not verified)"
+  },
+  {
+    "id": "FAQ_036",
+    "intent": "IT_ACCOUNT",
+    "q_en": "How can I change the email address on my account?",
+    "q_zh": "怎样更改账户登记的邮箱？",
+    "a_en": "The University email address is built from your student number and cannot be replaced by a personal address. Webmail can forward to another mailbox, but official notices still go to the University address; to correct the recorded address, apply to the IT Office with your student card.",
+    "a_zh": "大學電郵地址由學生編號生成，不能以私人地址取代。可設定轉寄到其他信箱，但正式通知仍發往大學電郵；如需更正紀錄上的地址，請帶同學生證向資訊科技處申請。",
+    "source": "HKMU IT guidance + demo policy §36"
+  },
+  {
+    "id": "FAQ_037",
+    "intent": "LIBRARY",
+    "q_en": "How can I borrow library books?",
+    "q_zh": "如何借阅图书馆书籍？",
+    "a_en": "Loans are taken at the counter or on the self-service machines with your student card. The quota and loan period follow your level of study, and General Collection items may be renewed up to the maximum loan period; Reserve Collection items are short-loan only.",
+    "a_zh": "借書可憑學生證在櫃位或自助借書機辦理。借書數量與期限按就讀程度而定，一般藏書可續借至最長借期；指定參考資料只作短期外借。",
+    "source": "HKMU Library Handbook (loan quota and renewals)"
+  },
+  {
+    "id": "FAQ_038",
+    "intent": "LIBRARY",
+    "q_en": "Can I renew a book I have already borrowed?",
+    "q_zh": "借了的书可以续借吗？",
+    "a_en": "Renew the item yourself on or before the due date and time, from your Library account or the online catalogue; General Collection loans can be renewed until the maximum loan period is reached. Renewal is refused where another borrower has requested the item, and overdue items accrue fines.",
+    "a_zh": "請於到期日及時間前，自行在圖書館帳戶或網上目錄續借；一般藏書可續借至最長借期為止。若已有其他讀者預約該項資料，續借會被拒；逾期會產生罰款。",
+    "source": "HKMU Library Handbook (renewals)"
+  },
+  {
+    "id": "FAQ_039",
+    "intent": "LIBRARY",
+    "q_en": "How do I use a journal database from home?",
+    "q_zh": "在家如何使用期刊数据库？",
+    "a_en": "Off campus, enter subscribed databases through the Library website's remote access route and sign in with Single Sign-On, so the publisher recognises you as an HKMU user. If a database asks for a separate password, the session has lapsed: sign in again rather than paying for access.",
+    "a_zh": "在校外使用已訂閱的資料庫，請經圖書館網站的校外存取入口以單一簽入（SSO）登入，出版商便會識別你為都會大學使用者。若資料庫要求另行輸入密碼，通常是連線已失效，重新簽入即可，切勿另行付費。",
+    "source": "HKMU Library remote access guidance"
+  },
+  {
+    "id": "FAQ_040",
+    "intent": "LIBRARY",
+    "q_en": "I have a library fine. How do I pay it?",
+    "q_zh": "图书馆罚款要怎么缴？",
+    "a_en": "Fines are settled at the Library counter or through the payment route printed on the overdue notice; the block on borrowing and renewal is lifted once the record clears. Unpaid fines are carried to the student account at the end of the term.",
+    "a_zh": "罰款在圖書館櫃位或按逾期通知所列的繳費渠道繳付；紀錄結清後，借書與續借的凍結便會解除。未繳罰款會於學期結束時轉入學生帳戶。",
+    "source": "HKMU Library Handbook + demo policy §40"
+  },
+  {
+    "id": "FAQ_041",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "Where can I see my similarity report?",
+    "q_zh": "在哪里查看相似度报告？",
+    "a_en": "The Turnitin similarity report is available in the assignment's Turnitin inbox on the course site once the submission is processed; only you and the teaching team see it. Read the matched sources rather than the percentage: a high score from references and quotations is normal, unattributed copied passages are not.",
+    "a_zh": "提交經處理後，可在課程網站的 Turnitin 作業匣查看相似度報告，只有你與教學團隊可見。應細看比對來源而非只看百分比：參考文獻與引文佔多屬正常，未標明出處的抄錄則不可。",
+    "source": "HKMU Turnitin guidance for students"
+  },
+  {
+    "id": "FAQ_042",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "How should I cite a source in my report?",
+    "q_zh": "报告中应如何引用资料？",
+    "a_en": "Follow the citation style named in the course outline; APA 7th is the common default in taught programmes. Give author, year, title and source for every borrowed idea, with page numbers for direct quotations. Turnitin matches text, so paraphrasing still requires attribution.",
+    "a_zh": "依課程大綱指定的引用格式處理（一般課程預設 APA 第 7 版）。每個借用自他人的概念都要列出作者、年份、標題與來源，直接引文另加頁碼。Turnitin 比對的是文字，改寫同樣須標明出處。",
+    "source": "HKMU academic integrity guidance + APA 7th edition"
+  },
+  {
+    "id": "FAQ_043",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "I have been accused of plagiarism. What is the process?",
+    "q_zh": "被指抄袭会怎样处理？",
+    "a_en": "On a report of suspected breach, the School reviews the case and decides whether there are reasonable grounds to proceed. You will be invited to respond in writing, and the outcome is handled under the Regulations Governing Academic Integrity and Student Discipline. Keep your drafts, notes and data, which are your evidence.",
+    "a_zh": "接獲懷疑違反學術誠信的報告後，學院會審視個案並決定是否有合理理由繼續處理。你會獲邀以書面回應，結果按〈學術誠信與學生紀律規例〉處理。請保留草稿、筆記與數據，這些是你的證據。",
+    "source": "HKMU Regulations Governing Academic Integrity and Student Discipline (public)"
+  },
+  {
+    "id": "FAQ_044",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "Can I reuse my own work from another module?",
+    "q_zh": "可以重用另一科的旧作业吗？",
+    "a_en": "Reusing earlier work without disclosure is self-plagiarism and is treated as a breach. Ask the course leader in advance; where reuse is permitted, cite the earlier work as you would any source and state what is new in this submission.",
+    "a_zh": "未經申報而重用自己的舊作屬自我抄襲，同樣視為違規。應先向課程負責人查詢；若獲允許，須像引用其他來源一樣引用該舊作，並說明本次提交的新增部分。",
+    "source": "HKMU academic integrity guidance + demo policy §44"
+  },
+  {
+    "id": "FAQ_045",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "How do I book a counselling appointment?",
+    "q_zh": "如何预约辅导面谈？",
+    "a_en": "Counselling is provided by the Student Affairs Office (SAO). Book through the SAO counter or the online appointment route published on its page, and say whether you need a Chinese- or English-speaking counsellor. Sessions are confidential and are not recorded on your academic file.",
+    "a_zh": "輔導服務由學生事務處（SAO）提供。可經該處櫃位或網頁公佈的網上預約渠道預約，並註明需要中文或英文輔導員。面談內容保密，不會記錄在學術檔案。",
+    "source": "HKMU SAO counselling service + demo policy §45"
+  },
+  {
+    "id": "FAQ_046",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "Can I get extra time in exams because of a disability?",
+    "q_zh": "因残障可在考试获得额外时间吗？",
+    "a_en": "Special examination arrangements are granted on evidence rather than on request. Register with SAO as a student with special educational needs and submit current documentation from a qualified professional before the arrangement deadline, which falls well ahead of the examination period; the Registry then timetables the room and any extra time.",
+    "a_zh": "特別考試安排須憑證明批核，而非按要求給予。先在學生事務處登記為有特殊教育需要的學生，並於安排截止日期前提交合資格專業人士的近期評估；該截止日期遠早於考試期。其後由教務處安排試場與加時。",
+    "source": "HKMU SAO support for students with SEN (special examination arrangements)"
+  },
+  {
+    "id": "FAQ_047",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "I am struggling with stress. Where can I get help?",
+    "q_zh": "压力很大，可以到哪里求助？",
+    "a_en": "Contact SAO counselling for a same-week appointment; where the situation is urgent outside office hours, use the emergency services or a 24-hour hotline rather than waiting for an email reply. Academic options such as an extension or deferment can be discussed once you are registered with a counsellor.",
+    "a_zh": "可聯絡學生事務處輔導服務安排當週面談；如在辦公時間外情況緊急，應使用緊急服務或24 小時熱線，不要等電郵回覆。與輔導員建立紀錄後，可一併討論延期或休學等學業安排。",
+    "source": "HKMU SAO counselling service + demo policy §47"
+  },
+  {
+    "id": "FAQ_048",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "Is there emergency money for students in hardship?",
+    "q_zh": "有经济困难的紧急援助吗？",
+    "a_en": "SAO administers a student emergency fund for registered students facing sudden hardship; apply with income and expense evidence and a short statement of the circumstances. Government loans and grants through the Student Finance Office are the parallel route for recurring need.",
+    "a_zh": "學生事務處設有學生緊急基金，供突然陷入經濟困難的註冊學生申請；須提交入息及支出證明，並簡述情況。若屬持續性的經濟需要，應同時考慮經學生資助處申請政府貸款與助學金。",
+    "source": "HKMU SAO financial assistance + demo policy §48"
+  }
+]

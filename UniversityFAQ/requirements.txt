@@ -1,0 +1,8 @@
+streamlit>=1.50,<2
+scikit-learn>=1.4,<2
+numpy>=1.26,<3
+pandas>=2.2,<3
+rank-bm25==0.2.2
+requests>=2.31,<3
+pypdf>=4,<8
+pillow>=10,<12

@@ -1,0 +1,158 @@
+[
+  {"id": "Q001_zh", "query": "交了病假纸还能延后交功课吗？", "relevant": ["FAQ_001"]},
+  {"id": "Q001_en", "query": "I have a medical note. Can I get more time for my coursework?", "relevant": ["FAQ_001"]},
+
+  {"id": "Q002_zh", "query": "迟了一天交会扣多少分？", "relevant": ["FAQ_002"]},
+  {"id": "Q002_en", "query": "What if I hand in an essay after the deadline?", "relevant": ["FAQ_002"]},
+
+  {"id": "Q003_zh", "query": "组里进度落后，能申请延期吗？", "relevant": ["FAQ_003"]},
+  {"id": "Q003_en", "query": "Our team is behind schedule. Can we extend the project deadline?", "relevant": ["FAQ_003"]},
+
+  {"id": "Q004_zh", "query": "家里出事影响了作业，要报备吗？", "relevant": ["FAQ_004"]},
+  {"id": "Q004_en", "query": "Something personal disrupted my revision. Where do I declare it?", "relevant": ["FAQ_004"]},
+
+  {"id": "Q005_zh", "query": "觉得成绩打错了，可以复核吗？", "relevant": ["FAQ_005"]},
+  {"id": "Q005_en", "query": "I think my result is wrong. Can it be reviewed?", "relevant": ["FAQ_005"]},
+
+  {"id": "Q006_zh", "query": "论文分数不满意，能找人再看一次吗？", "relevant": ["FAQ_006"]},
+  {"id": "Q006_en", "query": "Can another marker look at my paper again?", "relevant": ["FAQ_006"]},
+
+  {"id": "Q007_zh", "query": "系统里查不到我这科的分。", "relevant": ["FAQ_007"]},
+  {"id": "Q007_en", "query": "One of my modules shows no mark online.", "relevant": ["FAQ_007"]},
+
+  {"id": "Q008_zh", "query": "整体分数会不会被上调？", "relevant": ["FAQ_008"]},
+  {"id": "Q008_en", "query": "Will the whole class marks be adjusted upward?", "relevant": ["FAQ_008"]},
+
+  {"id": "Q009_zh", "query": "我的考试日期从哪看？", "relevant": ["FAQ_009"]},
+  {"id": "Q009_en", "query": "Where do I look up my exam dates?", "relevant": ["FAQ_009"]},
+
+  {"id": "Q010_zh", "query": "考试场地怎么查？", "relevant": ["FAQ_010"]},
+  {"id": "Q010_en", "query": "How do I find out where to sit my exam?", "relevant": ["FAQ_010"]},
+
+  {"id": "Q011_zh", "query": "两场考试撞期要跟谁说？", "relevant": ["FAQ_011"]},
+  {"id": "Q011_en", "query": "My exams overlap. Who should I tell?", "relevant": ["FAQ_011"]},
+
+  {"id": "Q012_zh", "query": "考试当天的开始时间在哪看？", "relevant": ["FAQ_012"]},
+  {"id": "Q012_en", "query": "Where do I check the start time on exam day?", "relevant": ["FAQ_012"]},
+
+  {"id": "Q013_zh", "query": "考不了因为住院，能补考吗？", "relevant": ["FAQ_013"]},
+  {"id": "Q013_en", "query": "I was hospitalised and missed the exam. Can I resit?", "relevant": ["FAQ_013"]},
+
+  {"id": "Q014_zh", "query": "考完才知道家里出事，能补救吗？", "relevant": ["FAQ_014"]},
+  {"id": "Q014_en", "query": "Something happened before the exam. Can consideration be applied afterwards?", "relevant": ["FAQ_014"]},
+
+  {"id": "Q015_zh", "query": "补考安排在什么时候？", "relevant": ["FAQ_015"]},
+  {"id": "Q015_en", "query": "When will the deferred sitting take place?", "relevant": ["FAQ_015"]},
+
+  {"id": "Q016_zh", "query": "塞车迟到了还能进考场吗？", "relevant": ["FAQ_016"]},
+  {"id": "Q016_en", "query": "If I am late, will I still be allowed in?", "relevant": ["FAQ_016"]},
+
+  {"id": "Q017_zh", "query": "过了选课期还想加一门课。", "relevant": ["FAQ_017"]},
+  {"id": "Q017_en", "query": "I want to enrol in one more module after the deadline.", "relevant": ["FAQ_017"]},
+
+  {"id": "Q018_zh", "query": "不想要这门课了怎么取消？", "relevant": ["FAQ_018"]},
+  {"id": "Q018_en", "query": "How can I remove a module from my load?", "relevant": ["FAQ_018"]},
+
+  {"id": "Q019_zh", "query": "想跟朋友同组，可以调吗？", "relevant": ["FAQ_019"]},
+  {"id": "Q019_en", "query": "Can I move to my friend's tutorial section?", "relevant": ["FAQ_019"]},
+
+  {"id": "Q020_zh", "query": "这门课满额了，还有机会进吗？", "relevant": ["FAQ_020"]},
+  {"id": "Q020_en", "query": "The module is full. Any chance of getting in?", "relevant": ["FAQ_020"]},
+
+  {"id": "Q021_zh", "query": "缴款通知上的钱要怎么付？", "relevant": ["FAQ_021"]},
+  {"id": "Q021_en", "query": "The payment notice says I owe money. How do I pay it?", "relevant": ["FAQ_021"]},
+
+  {"id": "Q022_zh", "query": "可以分几次交学费吗？", "relevant": ["FAQ_022"]},
+  {"id": "Q022_en", "query": "Can the tuition be split into several payments?", "relevant": ["FAQ_022"]},
+
+  {"id": "Q023_zh", "query": "交完钱要收据怎么办？", "relevant": ["FAQ_023"]},
+  {"id": "Q023_en", "query": "How do I obtain a receipt for my payment?", "relevant": ["FAQ_023"]},
+
+  {"id": "Q024_zh", "query": "忘记交学费会怎样？", "relevant": ["FAQ_024"]},
+  {"id": "Q024_en", "query": "What if I miss the fee deadline?", "relevant": ["FAQ_024"]},
+
+  {"id": "Q025_zh", "query": "退课钱会退回来吗？", "relevant": ["FAQ_025"]},
+  {"id": "Q025_en", "query": "Will I get my money back if I withdraw?", "relevant": ["FAQ_025"]},
+
+  {"id": "Q026_zh", "query": "我不小心付了两次。", "relevant": ["FAQ_026"]},
+  {"id": "Q026_en", "query": "I was charged twice by mistake.", "relevant": ["FAQ_026"]},
+
+  {"id": "Q027_zh", "query": "退款要等多久？", "relevant": ["FAQ_027"]},
+  {"id": "Q027_en", "query": "How long until the money comes back?", "relevant": ["FAQ_027"]},
+
+  {"id": "Q028_zh", "query": "活动取消了，费用能退吗？", "relevant": ["FAQ_028"]},
+  {"id": "Q028_en", "query": "The trip was cancelled. Is the fee refundable?", "relevant": ["FAQ_028"]},
+
+  {"id": "Q029_zh", "query": "奖学金有没有结果？", "relevant": ["FAQ_029"]},
+  {"id": "Q029_en", "query": "Has my scholarship decision come out?", "relevant": ["FAQ_029"]},
+
+  {"id": "Q030_zh", "query": "助学金要什么条件？", "relevant": ["FAQ_030"]},
+  {"id": "Q030_en", "query": "What are the requirements for a grant?", "relevant": ["FAQ_030"]},
+
+  {"id": "Q031_zh", "query": "奖学金要维持什么成绩？", "relevant": ["FAQ_031"]},
+  {"id": "Q031_en", "query": "What must I maintain to keep my award?", "relevant": ["FAQ_031"]},
+
+  {"id": "Q032_zh", "query": "奖学金什么时候到帐？", "relevant": ["FAQ_032"]},
+  {"id": "Q032_en", "query": "When will the award money arrive?", "relevant": ["FAQ_032"]},
+
+  {"id": "Q033_zh", "query": "登入不了，重设密码在哪做？", "relevant": ["FAQ_033"]},
+  {"id": "Q033_en", "query": "I am locked out. Where do I reset my password?", "relevant": ["FAQ_033"]},
+
+  {"id": "Q034_zh", "query": "帐号登不进去被锁了。", "relevant": ["FAQ_034"]},
+  {"id": "Q034_en", "query": "My login is blocked after too many attempts.", "relevant": ["FAQ_034"]},
+
+  {"id": "Q035_zh", "query": "手机验证怎么开通？", "relevant": ["FAQ_035"]},
+  {"id": "Q035_en", "query": "How do I set up mobile verification?", "relevant": ["FAQ_035"]},
+
+  {"id": "Q036_zh", "query": "换了邮箱要更新吗？", "relevant": ["FAQ_036"]},
+  {"id": "Q036_en", "query": "I changed my email. How do I update it?", "relevant": ["FAQ_036"]},
+
+  {"id": "Q037_zh", "query": "书怎么借？", "relevant": ["FAQ_037"]},
+  {"id": "Q037_en", "query": "What do I need to take out a book?", "relevant": ["FAQ_037"]},
+
+  {"id": "Q038_zh", "query": "借的书快到期了能延吗？", "relevant": ["FAQ_038"]},
+  {"id": "Q038_en", "query": "My loan is nearly due. Can I keep it longer?", "relevant": ["FAQ_038"]},
+
+  {"id": "Q039_zh", "query": "校外查文献要怎样登入？", "relevant": ["FAQ_039"]},
+  {"id": "Q039_en", "query": "How do I reach the journals from outside campus?", "relevant": ["FAQ_039"]},
+
+  {"id": "Q040_zh", "query": "罚金在哪里交？", "relevant": ["FAQ_040"]},
+  {"id": "Q040_en", "query": "Where do I settle an overdue charge?", "relevant": ["FAQ_040"]},
+
+  {"id": "Q041_zh", "query": "交了作业后相似度报告在哪看？", "relevant": ["FAQ_041"]},
+  {"id": "Q041_en", "query": "Where do I find my similarity score after submitting?", "relevant": ["FAQ_041"]},
+
+  {"id": "Q042_zh", "query": "引用格式怎样写才对？", "relevant": ["FAQ_042"]},
+  {"id": "Q042_en", "query": "What referencing style should I use?", "relevant": ["FAQ_042"]},
+
+  {"id": "Q043_zh", "query": "被说抄袭了，会怎样？", "relevant": ["FAQ_043"]},
+  {"id": "Q043_en", "query": "I have been reported for copying. What happens next?", "relevant": ["FAQ_043"]},
+
+  {"id": "Q044_zh", "query": "旧作业可以再用吗？", "relevant": ["FAQ_044"]},
+  {"id": "Q044_en", "query": "May I submit work I did for another module?", "relevant": ["FAQ_044"]},
+
+  {"id": "Q045_zh", "query": "想找人谈谈心理问题，怎么约？", "relevant": ["FAQ_045"]},
+  {"id": "Q045_en", "query": "I would like to talk to a counsellor. How do I arrange it?", "relevant": ["FAQ_045"]},
+
+  {"id": "Q046_zh", "query": "特殊考试安排要怎样申请？", "relevant": ["FAQ_046"]},
+  {"id": "Q046_en", "query": "How do I arrange exam adjustments for my condition?", "relevant": ["FAQ_046"]},
+
+  {"id": "Q047_zh", "query": "最近情绪很差，有支援吗？", "relevant": ["FAQ_047"]},
+  {"id": "Q047_en", "query": "I have been feeling overwhelmed. Is there support?", "relevant": ["FAQ_047"]},
+
+  {"id": "Q048_zh", "query": "生活费不够，有紧急援助吗？", "relevant": ["FAQ_048"]},
+  {"id": "Q048_en", "query": "I am short of money. Is there emergency help?", "relevant": ["FAQ_048"]},
+
+  {"id": "OUT_01", "query": "明天会下雨吗？", "relevant": []},
+  {"id": "OUT_02", "query": "How did last night's football match end?", "relevant": []},
+  {"id": "OUT_03", "query": "今季英超榜首是谁？", "relevant": []},
+  {"id": "OUT_04", "query": "What is the share price of Tesla today?", "relevant": []},
+  {"id": "OUT_05", "query": "Give me a recipe for banana bread.", "relevant": []},
+  {"id": "OUT_06", "query": "煲汤要放多少盐？", "relevant": []},
+  {"id": "OUT_07", "query": "How do I book a flight to Tokyo?", "relevant": []},
+  {"id": "OUT_08", "query": "大阪哪家酒店最便宜？", "relevant": []},
+  {"id": "OUT_09", "query": "Tell me a joke about cats.", "relevant": []},
+  {"id": "OUT_10", "query": "帮我写一首情诗。", "relevant": []},
+  {"id": "OUT_11", "query": "Is my headache a sign of something serious?", "relevant": []},
+  {"id": "OUT_12", "query": "我想告我的房东，有什么法律建议？", "relevant": []}
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "FAQ_001",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "How do I apply for an assignment extension?",
+    "q_zh": "如何申请作业延期？",
+    "a_en": "Submit the request through the course platform before the deadline, attach supporting evidence, and the course coordinator decides.",
+    "a_zh": "請於截止前在課程平台提交延期申請並附上證明，由課程負責人決定是否批准。",
+    "source": "Synthetic demo corpus §1"
+  },
+  {
+    "id": "FAQ_002",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "What happens if I submit coursework late?",
+    "q_zh": "作业迟交会有什么后果？",
+    "a_en": "A late submission is recorded against the deadline; ask the course coordinator how the penalty is applied in your programme.",
+    "a_zh": "遲交會按截止時間記錄，具體扣分方式請向課程負責人查詢。",
+    "source": "Synthetic demo corpus §2"
+  },
+  {
+    "id": "FAQ_003",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "Can our group ask for more time on the group project?",
+    "q_zh": "小组作业可以申请延期吗？",
+    "a_en": "One member submits a joint request with the group's reasons, and the coordinator sets a single revised deadline for the whole group.",
+    "a_zh": "由一名成員代表小組提交申請並說明原因，負責人會為全組設定統一的延期。",
+    "source": "Synthetic demo corpus §3"
+  },
+  {
+    "id": "FAQ_004",
+    "intent": "ASSESSMENT_EXTENSION",
+    "q_en": "How do I report circumstances that affected my coursework?",
+    "q_zh": "课程作业受突发事件影响该怎么申报？",
+    "a_en": "File a mitigating circumstances form with evidence through student services before the assessment board meets.",
+    "a_zh": "請在評核會議前向學生事務處提交特殊情況申報表及證明。",
+    "source": "Synthetic demo corpus §4"
+  },
+  {
+    "id": "FAQ_005",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "How do I appeal a final grade?",
+    "q_zh": "如何对最终成绩提出申诉？",
+    "a_en": "Appeal in writing to the programme office within the window stated with your results, setting out the ground of appeal.",
+    "a_zh": "成績公佈後請在指定期限內書面向課程辦公室申訴，並說明理由。",
+    "source": "Synthetic demo corpus §5"
+  },
+  {
+    "id": "FAQ_006",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "Can I ask for my essay to be re-marked?",
+    "q_zh": "可以要求重新评阅论文吗？",
+    "a_en": "Request a re-mark from the module leader with the marked copy, and a second marker reviews that assessment only.",
+    "a_zh": "請連同已評閱的作業向模組負責人提出重評申請，由第二位評閱人只複核該份作業。",
+    "source": "Synthetic demo corpus §6"
+  },
+  {
+    "id": "FAQ_007",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "My mark is missing from the gradebook. Who do I contact?",
+    "q_zh": "成绩表上没有我的分数，应该找谁？",
+    "a_en": "Report the missing mark to the module leader and copy the programme office so the record can be checked.",
+    "a_zh": "請向模組負責人報告缺分情況並抄送課程辦公室，以便核對記錄。",
+    "source": "Synthetic demo corpus §7"
+  },
+  {
+    "id": "FAQ_008",
+    "intent": "ASSESSMENT_GRADE",
+    "q_en": "How are marks adjusted when a cohort performs unusually?",
+    "q_zh": "全班成绩偏低时会如何调整？",
+    "a_en": "Any scaling is decided by the assessment board and published with the results, and individual staff cannot change marks.",
+    "a_zh": "任何分數調整均由評核委員會決定並隨成績公佈，個別教職員無權改動。",
+    "source": "Synthetic demo corpus §8"
+  },
+  {
+    "id": "FAQ_009",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "Where can I find the examination timetable?",
+    "q_zh": "在哪里查看考试时间表？",
+    "a_en": "Check the examination section of the student portal and confirm your course code and version of the timetable.",
+    "a_zh": "請於學生門戶的考試欄目查看，並核對課程編號與版本。",
+    "source": "Synthetic demo corpus §9"
+  },
+  {
+    "id": "FAQ_010",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "Which room is my exam in?",
+    "q_zh": "我的考试在哪个课室举行？",
+    "a_en": "The room is listed beside your seat number on the timetable, and you should arrive early to locate it.",
+    "a_zh": "課室與座位號一併列於考試時間表，請提早到場確認位置。",
+    "source": "Synthetic demo corpus §10"
+  },
+  {
+    "id": "FAQ_011",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "Two of my exams are scheduled at the same time. What should I do?",
+    "q_zh": "两科考试时间重叠怎么办？",
+    "a_en": "Report the clash to the examinations office as soon as it appears so an alternative sitting can be arranged.",
+    "a_zh": "請盡快向考試事務處報告撞期，以便安排替代考期。",
+    "source": "Synthetic demo corpus §11"
+  },
+  {
+    "id": "FAQ_012",
+    "intent": "EXAM_TIMETABLE",
+    "q_en": "What time does the exam start and how long is it?",
+    "q_zh": "考试几点开始、考多久？",
+    "a_en": "The start time and duration are printed on your personal timetable, and the invigilator's clock governs the sitting.",
+    "a_zh": "開始時間與作答時限載於個人時間表，以監考員的計時為準。",
+    "source": "Synthetic demo corpus §12"
+  },
+  {
+    "id": "FAQ_013",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "I was ill on the day of my exam. What happens now?",
+    "q_zh": "考试当天生病缺席该怎么办？",
+    "a_en": "Submit medical evidence to student services within the stated period and ask for a deferred sitting.",
+    "a_zh": "請在指定期限內向學生事務處提交醫療證明，並申請補考。",
+    "source": "Synthetic demo corpus §13"
+  },
+  {
+    "id": "FAQ_014",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "How do I apply for special consideration after an exam?",
+    "q_zh": "考试后如何申请特殊考虑？",
+    "a_en": "Apply through the special consideration form with evidence, and the board decides whether any adjustment applies.",
+    "a_zh": "請填寫特殊考慮申請表並附證明，由評核委員會決定是否作出調整。",
+    "source": "Synthetic demo corpus §14"
+  },
+  {
+    "id": "FAQ_015",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "Can I sit a deferred exam next semester?",
+    "q_zh": "可以下学期补考吗？",
+    "a_en": "Deferred sittings are arranged by the examinations office in the next available period, so confirm the date with them.",
+    "a_zh": "補考由考試事務處於下一個可用考期安排，請向其確認日期。",
+    "source": "Synthetic demo corpus §15"
+  },
+  {
+    "id": "FAQ_016",
+    "intent": "EXAM_ABSENCE",
+    "q_en": "What happens if I arrive late to an exam?",
+    "q_zh": "考试迟到会怎样？",
+    "a_en": "Admission after the start is at the invigilator's discretion, and the time lost is not replaced.",
+    "a_zh": "開考後能否進場由監考員決定，損失的時間不予補回。",
+    "source": "Synthetic demo corpus §16"
+  },
+  {
+    "id": "FAQ_017",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "How do I add a course after the add-drop period?",
+    "q_zh": "选课期过后还能加课吗？",
+    "a_en": "Late additions need the module leader's approval and are processed by the programme office.",
+    "a_zh": "逾期加課須經模組負責人同意，並由課程辦公室處理。",
+    "source": "Synthetic demo corpus §17"
+  },
+  {
+    "id": "FAQ_018",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "How do I drop a course?",
+    "q_zh": "如何退选课程？",
+    "a_en": "Drop the course in the student portal during the adjustment period, then confirm it with the programme office.",
+    "a_zh": "請於選課調整期內在學生門戶退選，並向課程辦公室確認。",
+    "source": "Synthetic demo corpus §18"
+  },
+  {
+    "id": "FAQ_019",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "Can I switch to a different tutorial group?",
+    "q_zh": "可以换到另一个导修组吗？",
+    "a_en": "Group changes are limited by room capacity, so ask the module leader, who approves swaps.",
+    "a_zh": "導修組受課室名額限制，請向模組負責人申請，由其批准轉換。",
+    "source": "Synthetic demo corpus §19"
+  },
+  {
+    "id": "FAQ_020",
+    "intent": "ENROLMENT_CHANGE",
+    "q_en": "The course I want is full. Is there a waiting list?",
+    "q_zh": "想选的课满了，有候补名单吗？",
+    "a_en": "Join the waiting list in the portal, and places are released to the list in order if students drop out.",
+    "a_zh": "請於門戶加入候補名單，如有學生退選會按名單順序補上。",
+    "source": "Synthetic demo corpus §20"
+  },
+  {
+    "id": "FAQ_021",
+    "intent": "FEES_PAYMENT",
+    "q_en": "How can I pay tuition fees?",
+    "q_zh": "如何缴交学费？",
+    "a_en": "Follow the payment notice in the student portal and use one of the methods listed there by the stated deadline.",
+    "a_zh": "請依學生門戶的繳費通知，在期限內使用所列方式付款。",
+    "source": "Synthetic demo corpus §21"
+  },
+  {
+    "id": "FAQ_022",
+    "intent": "FEES_PAYMENT",
+    "q_en": "Can I pay my tuition in instalments?",
+    "q_zh": "学费可以分期缴付吗？",
+    "a_en": "Instalment plans are arranged by the finance office on request, so confirm the schedule before the first due date.",
+    "a_zh": "分期安排須向財務處申請，並須在首個繳款日前確認計劃。",
+    "source": "Synthetic demo corpus §22"
+  },
+  {
+    "id": "FAQ_023",
+    "intent": "FEES_PAYMENT",
+    "q_en": "Where do I get proof that I have paid?",
+    "q_zh": "缴费后在哪里取得证明？",
+    "a_en": "Download the official receipt from the portal once the payment clears, and the finance office can reissue it.",
+    "a_zh": "款項入帳後可在門戶下載正式收據，如需補發請聯絡財務處。",
+    "source": "Synthetic demo corpus §23"
+  },
+  {
+    "id": "FAQ_024",
+    "intent": "FEES_PAYMENT",
+    "q_en": "What happens if my payment is late?",
+    "q_zh": "逾期未缴会怎样？",
+    "a_en": "Contact the finance office before the deadline, and they will explain the options and record any arrangement.",
+    "a_zh": "請在期限前聯絡財務處，由其說明可行安排並記錄處理方式。",
+    "source": "Synthetic demo corpus §24"
+  },
+  {
+    "id": "FAQ_025",
+    "intent": "FEES_REFUND",
+    "q_en": "Can I get a refund after withdrawing from a course?",
+    "q_zh": "退课后可以退款吗？",
+    "a_en": "Refund eligibility depends on the withdrawal date, so submit the refund form to the finance office with the withdrawal record.",
+    "a_zh": "退款資格視退課日期而定，請連同退課記錄向財務處提交退款申請。",
+    "source": "Synthetic demo corpus §25"
+  },
+  {
+    "id": "FAQ_026",
+    "intent": "FEES_REFUND",
+    "q_en": "I paid twice. How do I get the extra payment back?",
+    "q_zh": "我重复缴费了，怎样取回多付的款项？",
+    "a_en": "Report the duplicate payment to the finance office with both receipts so the balance can be refunded.",
+    "a_zh": "請帶同兩筆繳費記錄向財務處報告重複付款，以辦理退款。",
+    "source": "Synthetic demo corpus §26"
+  },
+  {
+    "id": "FAQ_027",
+    "intent": "FEES_REFUND",
+    "q_en": "How long does a refund take to reach my account?",
+    "q_zh": "退款多久会到帐？",
+    "a_en": "The finance office confirms the processing time when it approves the refund, and bank clearing time is additional.",
+    "a_zh": "財務處批准退款時會告知處理時間，另需加上銀行結算時間。",
+    "source": "Synthetic demo corpus §27"
+  },
+  {
+    "id": "FAQ_028",
+    "intent": "FEES_REFUND",
+    "q_en": "Can the fee for a cancelled field trip be refunded?",
+    "q_zh": "取消的考察团费用可以退吗？",
+    "a_en": "Refunds for cancelled activities are arranged by the organising department rather than the finance counter.",
+    "a_zh": "取消活動的退款由主辦部門安排，並非由財務櫃檯處理。",
+    "source": "Synthetic demo corpus §28"
+  },
+  {
+    "id": "FAQ_029",
+    "intent": "SCHOLARSHIP",
+    "q_en": "How do I check my scholarship application status?",
+    "q_zh": "如何查询奖学金申请进度？",
+    "a_en": "The status appears in the scholarship section of the portal once the selection panel has reviewed the application.",
+    "a_zh": "遴選委員會審閱後，申請進度會顯示於門戶的獎學金欄目。",
+    "source": "Synthetic demo corpus §29"
+  },
+  {
+    "id": "FAQ_030",
+    "intent": "SCHOLARSHIP",
+    "q_en": "Am I eligible for a bursary?",
+    "q_zh": "我符合助学金资格吗？",
+    "a_en": "Eligibility depends on the criteria published with each scheme, and the student finance team confirms individual cases.",
+    "a_zh": "資格取決於各計畫公佈的準則，個別情況請由學生資助組確認。",
+    "source": "Synthetic demo corpus §30"
+  },
+  {
+    "id": "FAQ_031",
+    "intent": "SCHOLARSHIP",
+    "q_en": "What must I do to keep my scholarship?",
+    "q_zh": "奖学金要怎样才可以延续？",
+    "a_en": "Renewal depends on meeting the conditions in your award letter, and the renewal form is submitted each year.",
+    "a_zh": "續領須符合獎學金通知書所列條件，並須每年提交續期表格。",
+    "source": "Synthetic demo corpus §31"
+  },
+  {
+    "id": "FAQ_032",
+    "intent": "SCHOLARSHIP",
+    "q_en": "When is the scholarship paid out?",
+    "q_zh": "奖学金何时发放？",
+    "a_en": "Disbursement follows the schedule in the award letter, and the finance office confirms any delay.",
+    "a_zh": "發放依獎學金通知書所列時間表，如有延誤請向財務處確認。",
+    "source": "Synthetic demo corpus §32"
+  },
+  {
+    "id": "FAQ_033",
+    "intent": "IT_ACCOUNT",
+    "q_en": "How do I reset my student account password?",
+    "q_zh": "忘记学生账户密码怎么办？",
+    "a_en": "Use the self-service reset in the student portal, and contact the IT service desk if verification fails.",
+    "a_zh": "請使用學生門戶的自助重設功能，驗證失敗時聯絡資訊科技服務台。",
+    "source": "Synthetic demo corpus §33"
+  },
+  {
+    "id": "FAQ_034",
+    "intent": "IT_ACCOUNT",
+    "q_en": "My account is locked after several wrong passwords.",
+    "q_zh": "多次输入错误后账户被锁定了。",
+    "a_en": "Account locks are cleared after identity verification at the IT service desk, so bring your student card.",
+    "a_zh": "帳戶鎖定須經資訊科技服務台核實身份後解除，請攜帶學生證。",
+    "source": "Synthetic demo corpus §34"
+  },
+  {
+    "id": "FAQ_035",
+    "intent": "IT_ACCOUNT",
+    "q_en": "How do I turn on two-factor authentication?",
+    "q_zh": "如何启用双重认证？",
+    "a_en": "Enrol a device in the security settings of the portal, and the service desk assists if enrolment fails.",
+    "a_zh": "請於門戶的保安設定登記裝置，登記失敗可向服務台求助。",
+    "source": "Synthetic demo corpus §35"
+  },
+  {
+    "id": "FAQ_036",
+    "intent": "IT_ACCOUNT",
+    "q_en": "How can I change the email address on my account?",
+    "q_zh": "怎样更改账户登记的邮箱？",
+    "a_en": "Update the contact email in the portal profile, and the change is confirmed to both the old and new addresses.",
+    "a_zh": "請於門戶個人資料更新聯絡郵箱，系統會向新舊地址發出確認。",
+    "source": "Synthetic demo corpus §36"
+  },
+  {
+    "id": "FAQ_037",
+    "intent": "LIBRARY",
+    "q_en": "How can I borrow library books?",
+    "q_zh": "如何借阅图书馆书籍？",
+    "a_en": "Use your student card at the self-service counter, and the due date appears in your loan record.",
+    "a_zh": "請以學生證於自助借書機辦理，還書日期會顯示於借閱記錄。",
+    "source": "Synthetic demo corpus §37"
+  },
+  {
+    "id": "FAQ_038",
+    "intent": "LIBRARY",
+    "q_en": "Can I renew a book I have already borrowed?",
+    "q_zh": "借了的书可以续借吗？",
+    "a_en": "Renew in the library account unless another reader has reserved the title, and the new due date shows immediately.",
+    "a_zh": "如無人預約，可在圖書館帳戶續借，新的還書日期會即時顯示。",
+    "source": "Synthetic demo corpus §38"
+  },
+  {
+    "id": "FAQ_039",
+    "intent": "LIBRARY",
+    "q_en": "How do I use a journal database from home?",
+    "q_zh": "在家如何使用期刊数据库？",
+    "a_en": "Sign in through the library's off-campus access link with your student credentials, and the help desk assists with setup.",
+    "a_zh": "請經圖書館的校外訪問連結以學生帳戶登入，設定問題可向諮詢台求助。",
+    "source": "Synthetic demo corpus §39"
+  },
+  {
+    "id": "FAQ_040",
+    "intent": "LIBRARY",
+    "q_en": "I have a library fine. How do I pay it?",
+    "q_zh": "图书馆罚款要怎么缴？",
+    "a_en": "Fines are settled at the library counter or through the payment option in your library account.",
+    "a_zh": "罰款可於圖書館櫃檯繳付，或經圖書館帳戶的繳費功能處理。",
+    "source": "Synthetic demo corpus §40"
+  },
+  {
+    "id": "FAQ_041",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "Where can I see my similarity report?",
+    "q_zh": "在哪里查看相似度报告？",
+    "a_en": "The report is released in the assignment folder after submission, and your tutor explains how to read it.",
+    "a_zh": "報告會於提交後在作業資料夾內發佈，導師會說明如何解讀。",
+    "source": "Synthetic demo corpus §41"
+  },
+  {
+    "id": "FAQ_042",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "How should I cite a source in my report?",
+    "q_zh": "报告中应如何引用资料？",
+    "a_en": "Follow the citation style named in the module guide and list every source in the reference list.",
+    "a_zh": "請依模組指引指定的引用格式，並在參考文獻列出所有資料來源。",
+    "source": "Synthetic demo corpus §42"
+  },
+  {
+    "id": "FAQ_043",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "I have been accused of plagiarism. What is the process?",
+    "q_zh": "被指抄袭会怎样处理？",
+    "a_en": "The case goes to the academic integrity officer, who invites a written response before a decision is made.",
+    "a_zh": "個案會交由學術誠信主任處理，並在決定前邀請你作書面回應。",
+    "source": "Synthetic demo corpus §43"
+  },
+  {
+    "id": "FAQ_044",
+    "intent": "ACADEMIC_INTEGRITY",
+    "q_en": "Can I reuse my own work from another module?",
+    "q_zh": "可以重用另一科的旧作业吗？",
+    "a_en": "Reuse your own earlier work only with the module leader's permission, and declare it in the submission.",
+    "a_zh": "重用舊作須先獲模組負責人同意，並在提交時申報。",
+    "source": "Synthetic demo corpus §44"
+  },
+  {
+    "id": "FAQ_045",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "How do I book a counselling appointment?",
+    "q_zh": "如何预约辅导面谈？",
+    "a_en": "Book through student services, and appointments are confidential and can be held online.",
+    "a_zh": "請經學生事務處預約，面談內容保密，亦可安排線上進行。",
+    "source": "Synthetic demo corpus §45"
+  },
+  {
+    "id": "FAQ_046",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "Can I get extra time in exams because of a disability?",
+    "q_zh": "因残障可在考试获得额外时间吗？",
+    "a_en": "Register with the disability support team early in the term so approved arrangements reach the examinations office.",
+    "a_zh": "請於學期初向殘障支援組登記，以便核准安排送交考試事務處。",
+    "source": "Synthetic demo corpus §46"
+  },
+  {
+    "id": "FAQ_047",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "I am struggling with stress. Where can I get help?",
+    "q_zh": "压力很大，可以到哪里求助？",
+    "a_en": "Student services offers short-term support and referrals to the counselling team, and urgent cases are seen quickly.",
+    "a_zh": "學生事務處提供短期支援並轉介輔導組，緊急個案會盡快處理。",
+    "source": "Synthetic demo corpus §47"
+  },
+  {
+    "id": "FAQ_048",
+    "intent": "STUDENT_SUPPORT",
+    "q_en": "Is there emergency money for students in hardship?",
+    "q_zh": "有经济困难的紧急援助吗？",
+    "a_en": "The student support fund offers short-term grants, and applications with evidence go through student services.",
+    "a_zh": "學生支援基金提供短期補助，請連同證明向學生事務處申請。",
+    "source": "Synthetic demo corpus §48"
+  }
+]

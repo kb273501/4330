@@ -1,0 +1,96 @@
+[
+  {
+    "id": "Q1_zh",
+    "query": "作业来不及完成，怎样申请延期？",
+    "relevant": [
+      "FAQ_001"
+    ]
+  },
+  {
+    "id": "Q1_en",
+    "query": "Can I request extra time for my assignment?",
+    "relevant": [
+      "FAQ_001"
+    ]
+  },
+  {
+    "id": "Q2_zh",
+    "query": "忘记密码了怎样处理？",
+    "relevant": [
+      "FAQ_002"
+    ]
+  },
+  {
+    "id": "Q2_en",
+    "query": "I forgot my student account password.",
+    "relevant": [
+      "FAQ_002"
+    ]
+  },
+  {
+    "id": "Q3_zh",
+    "query": "怎样查询考试日期？",
+    "relevant": [
+      "FAQ_003"
+    ]
+  },
+  {
+    "id": "Q3_en",
+    "query": "Where can I check my exam dates?",
+    "relevant": [
+      "FAQ_003"
+    ]
+  },
+  {
+    "id": "Q4_zh",
+    "query": "学费应该怎样支付？",
+    "relevant": [
+      "FAQ_004"
+    ]
+  },
+  {
+    "id": "Q4_en",
+    "query": "How do I pay my tuition bill?",
+    "relevant": [
+      "FAQ_004"
+    ]
+  },
+  {
+    "id": "Q5_zh",
+    "query": "想退选一门课程应该怎样做？",
+    "relevant": [
+      "FAQ_005"
+    ]
+  },
+  {
+    "id": "Q5_en",
+    "query": "How can I drop a course?",
+    "relevant": [
+      "FAQ_005"
+    ]
+  },
+  {
+    "id": "Q6_zh",
+    "query": "图书馆借书需要什么？",
+    "relevant": [
+      "FAQ_006"
+    ]
+  },
+  {
+    "id": "Q6_en",
+    "query": "What do I need to borrow library books?",
+    "relevant": [
+      "FAQ_006"
+    ]
+  },
+  {
+    "id": "OUT_ZH",
+    "query": "明天会下雨吗？",
+    "relevant": []
+  },
+  {
+    "id": "OUT_EN",
+    "query": "What is tomorrow's weather?",
+    "relevant": []
+  }
+]
