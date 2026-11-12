@@ -257,9 +257,9 @@ FAQ_FILE_TYPES = ["json", "jsonl", "ndjson", "csv", "tsv", *DOC_EXTENSIONS, *IMA
 TEST_FILE_TYPES = ["json", "jsonl", "ndjson", "csv", "tsv"]
 
 _QA_BLOCK = re.compile(
-    r"(?:^|\n)\s*(?:Q|Question|問|問題)\s*(?:\d+)?\s*[::.]\s*(.+?)"
-    r"\s*(?:A|Answer|答|答案)\s*(?:\d+)?\s*[::.]\s*(.+?)"
-    r"(?=\n\s*(?:Q|Question|問|問題)\s*(?:\d+)?\s*[::.]|\Z)",
+    r"(?:^|\n)\s*(?:Q|Question|問|問題)\s*(?:\d+)?\s*[:：.]\s*(.+?)"
+    r"\s*(?:A|Answer|答|答案)\s*(?:\d+)?\s*[:：.]\s*(.+?)"
+    r"(?=\n\s*(?:Q|Question|問|問題)\s*(?:\d+)?\s*[:：.]|\Z)",
     re.S,
 )
 
